@@ -4,7 +4,8 @@
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
-### General Info
+
+## General Info
 ***
 App de servicios de juegos online
 ### Screenshot
@@ -16,6 +17,7 @@ Una Lista de tecnologias utilizadas en esta app:
 * [React](https://es.reactjs.org/): Version 18.0.0
 * [Html5](https://developer.mozilla.org/es/docs/Glossary/HTML5): Version 5.0
 * [NodeJs](https://nodejs.dev/learn/an-introduction-to-the-npm-package-manager): Version 8.5.0
+
 ## Installation
 ***
 Pasos pa instalar esta app. 
