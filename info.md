@@ -12,7 +12,8 @@ App de servicios de juegos online
 ## Technologies
 ***
 Una Lista de tecnologias utilizadas en esta app:
-* [Js](https://developer.mozilla.org/es/docs/Web/JavaScriptjs.org/): Version 2.34
+* [Js](https://developer.mozilla.org/es/docs/Web/JavaScriptjs.org/): Version 16.14.2
+* [React](https://es.reactjs.org/): Version 18.0.0
 * [Html5](https://developer.mozilla.org/es/docs/Glossary/HTML5): Version 5.0
 * [NodeJs](https://nodejs.dev/learn/an-introduction-to-the-npm-package-manager): Version 8.5.0
 ## Installation
